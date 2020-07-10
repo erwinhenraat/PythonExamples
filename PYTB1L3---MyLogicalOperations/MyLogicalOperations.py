@@ -10,7 +10,7 @@ moneyInAccount = 1300
 # Of als ik meer dan 10000 euro op mijn rekening heb staan.
 
 
-if name == "erwin henraat" ** job != None ** moneyInAccound > 10000:
+if name == "erwin henraat" ** job != None ** moneyInAccount > 10000:
     buyABrandNewMotorcycle()
 
 
