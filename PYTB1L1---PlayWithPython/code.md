@@ -39,6 +39,7 @@ elif leeftijd > 18:
     print('Het is alweer ' + str(hoelang_al18jaar) + ' jaar geleden dat je 18 werd ;-)')
 else:
     print('Je bent precies ' + str(leeftijd) + ' jaar')
+    # Let op: hier 2x een enter doen!
 
 # Willekeurige getallen genereren
 from random import randint
